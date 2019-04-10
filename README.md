@@ -2,4 +2,5 @@
 
 **Deep Learning certificates**
 
-1. deeplearning.ai by Andrew NG
+1. Deep learning nanodegree by Udacity
+2. deeplearning.ai by Andrew NG
